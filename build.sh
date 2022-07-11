@@ -7,5 +7,3 @@ parcel build \
   src/web/index.html \
   --no-source-maps --out-dir build
 
-cp src/web/CNAME docs/
-cp src/web/.nojekyll docs/
